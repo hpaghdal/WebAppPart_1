@@ -3,9 +3,9 @@
 
 
 # Query Screenshot 
-![Query Output](screenshots/query.jpg)
+![Query Output](screenshots/query.JPG)
 
 # Postman Screenshot
-![Postman Request Output](screenshots/postman.jpg)
+![Postman Request Output](screenshots/postman.JPG)
 
  

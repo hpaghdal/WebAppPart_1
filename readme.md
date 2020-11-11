@@ -6,6 +6,6 @@
 ![Query Output](screenshots/Query.jpg)
 
 # Postman Screenshot
-![Postman Request Output](screenshots/postman.jpg)
+![Postman Request Output](screenshots/Postman.jpg)
 
  

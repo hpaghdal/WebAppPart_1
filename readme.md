@@ -8,4 +8,7 @@
 # Postman Screenshot
 ![Postman Request Output](screenshots/postman.JPG)
 
+# Assignment 2 Proof
+![Postman Request Output](screenshots/Assignment2.JPG)
+
  
